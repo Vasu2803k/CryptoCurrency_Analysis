@@ -1,2 +1,2 @@
 # Crypto currency data analysis
-Data provided by Teesta Pvt.Ltd
+Dataset provided by Teesta Pvt.Ltd
